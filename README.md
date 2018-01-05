@@ -7,8 +7,7 @@
 ##
 
 ## Setup/Installation Requirements
-### bootstrap.css and styles.css files
-### HTML coding
+### bootstrap.css, styles.css files, and HTML coding
 
 ## Known Bugs
 ### To be determined
