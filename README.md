@@ -1,6 +1,6 @@
 # Portfolio-landing
 
-### First landing page for a personal porfolio, Version 1.01, 01/05/2018
+### First landing page for a personal portfolio, Version 1.01, 01/05/2018
 
 ### By Ron Craig
 
