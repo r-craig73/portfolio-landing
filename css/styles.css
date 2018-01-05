@@ -1,3 +1,18 @@
 h1, h2 {
   text-align: center;
 }
+img.right {
+  float: right;
+}
+.greentext {
+  color: green;
+}
+.redtext {
+  color: red;
+}
+.box-type {
+  margin: 30px;
+  padding: 10px;
+  border: 10px solid black;
+  background: pink;
+}
